@@ -1,0 +1,25 @@
+{
+  "name": "node-analytic-hierarchy-process",
+  "version": "1.0.0",
+  "description": "Analtic Hierarchy Process, Pairwise Comparison for Nodejs ",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon start.js"
+  },
+  "keywords": [
+    "Analytic",
+    "Hierarchy",
+    "Process",
+    "For",
+    "Nodejs"
+  ],
+  "author": "Fatih ŞEN",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/lodash": "^4.14.50",
+    "@types/node": "^7.0.4"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
